@@ -1,3 +1,2 @@
 # SDU-ODEV
-SDÜ ÖDEV PROJELER
-ilk commitimdir 
+WEB SİTESİ : https://yusufgokberkoluk.github.io/SDU-ODEV/
